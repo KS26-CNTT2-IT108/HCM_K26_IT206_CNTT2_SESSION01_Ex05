@@ -1,0 +1,25 @@
+SESSION01
+Bài 5: Áp dụng AI Policy & Nguyên tắc Human-in-the-loop trong Đánh giá Nhân sự
+
+Tên lớp: HCM K26 CNTT2
+Môn học: Kỹ năng PROMPTING với AI
+Họ và tên: LƯƠNG THANH THƯ
+
+Phần 1: 2 vi phạm nghiêm trọng
+	- Vi phạm 1: Giao quyết định cho AI, không kiểm duyệt lại
+Trưởng phòng ký sa thải ngay theo 3 tên AI đưa ra, bỏ qua nguyên tắc Human-in-the-loop.
+AI chỉ là công cụ đề xuất (Decision Support), không có thẩm quyền pháp lý để quyết định sa thải.
+Nói “AI khách quan nên tôi không can thiệp” là đổ trách nhiệm. Người ký quyết định mới là người chịu trách nhiệm.
+	- Vi phạm 2: Vi phạm đạo đức nghề nghiệp, thiếu công bằng
+Câu lệnh “kém nhất, sa thải ngay” dẫn dắt AI theo hướng tiêu cực.
+Số liệu KPI và chấm công không nói hết hoàn cảnh (ví dụ nghỉ ốm hợp lệ), nên AI dễ bị định kiến (Bias).
+Không cho nhân viên giải trình, không đối chiếu thực tế.
+
+Phần 2: Sơ đồ quy trình an toàn
+Bước 1: NHẬP DỮ LIỆU
+	Ẩn danh, làm sạch số liệu, viết prompt trung lập
+Bước 2: AI ĐỀ XUẤT
+	AI chỉ phân tích và gợi ý, không quyết định     
+Bước 3: CON NGƯỜI THẨM ĐỊNH (Human-in-the-loop)
+	Kiểm tra lại dữ liệu, loại bỏ định kiến, cho nhân viên giải trình
+	Ký quyết định (con người chịu trách nhiệm)
